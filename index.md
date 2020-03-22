@@ -1,30 +1,25 @@
-## Welcome to GitHub Pages
+## Biography
 
-You can use the [editor on GitHub](https://github.com/coder352/coder352.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-Another version [Download](./index.md.bak). 
+## News
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Papers
 
-### Markdown
+- **Ruipeng Jia**, Yanan Cao, Jinpeng Li, Yanbing Liu, Fang Fang and Pengfei Yin.
+  **Enhancing Pre-trained Language Representation for Multi-Task Learning of Scientific Summarization**.
+  The 2020 International Joint Conference on Neural Networks (IJCNN'2020).
+  Glasgow, UK. July, 2020.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Jinpeng Li, Chuang Zhang, Xiaojun Chen, Yanan Cao and **Ruipeng Jia**.
+  **Improving Abstractive Summarization with Modeling Iterative Representation**.
+  The 2020 International Joint Conference on Neural Networks (IJCNN'2020).
+  Glasgow, UK. July, 2020.
 
-```markdown
-Syntax highlighted code block
+- **Ruipeng Jia**, Yanan Cao, Jinpeng Li, Yanbing Liu, Fang Fang and Pengfei Yin.
+  **Enhancing Textual Representation for Abstractive Summarization: Leveraging Masked Decoder**.
+  The 2020 International Joint Conference on Neural Networks (IJCNN'2020).
+  Glasgow, UK. July, 2020.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- Hao Xu, Yanan Cao, **Ruipeng Jia**, Yanbing Liu and Jianlong Tan.
+  **Sequence Generative Adversarial Network for Long Text Summarization**.
+  IEEE 30th International Conference on Tools with Artificial Intelligence (ICTAI'18).
+  Volos, Greece. Nov, 2018. 
