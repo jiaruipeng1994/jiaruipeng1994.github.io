@@ -5,7 +5,12 @@ PhD student at Institute of Information Engineering, Chinese Academy of Sciences
 
 ## Papers
 
-- **Ruipeng Jia**, Yanan Cao, Jinpeng Li, Yanbing Liu, Fang Fang and Pengfei Yin.
+- **Ruipeng Jia**, Yanan Cao, Haichao Shi, Fang Fang, Yanbing Liu and Jianlong Tan.
+  **DistilSum: Distilling the Knowledge for Extractive Summarization**.
+  29th ACM International Conference on Information and Knowledge Management (CIKM'2020).
+  Galway, Ireland. October, 2020.
+
+- **Ruipeng Jia**, Yanan Cao, Fang Fang, Jinpeng Li, Yanbing Liu and Pengfei Yin.
   **Enhancing Pre-trained Language Representation for Multi-Task Learning of Scientific Summarization**.
   The 2020 International Joint Conference on Neural Networks (IJCNN'2020).
   Glasgow, UK. July, 2020.
@@ -15,7 +20,7 @@ PhD student at Institute of Information Engineering, Chinese Academy of Sciences
   The 2020 International Joint Conference on Neural Networks (IJCNN'2020).
   Glasgow, UK. July, 2020.
 
-- **Ruipeng Jia**, Yanan Cao, Jinpeng Li, Yanbing Liu, Fang Fang and Pengfei Yin.
+- **Ruipeng Jia**, Yanan Cao, Fang Fang, Jinpeng Li, Yanbing Liu and Pengfei Yin.
   **Enhancing Textual Representation for Abstractive Summarization: Leveraging Masked Decoder**.
   The 2020 International Joint Conference on Neural Networks (IJCNN'2020).
   Glasgow, UK. July, 2020.
