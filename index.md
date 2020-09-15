@@ -1,9 +1,16 @@
 ## Biography
 PhD student at Institute of Information Engineering, Chinese Academy of Sciences, studying computer science, focusing on machine learning for natural language.
 
+As a young researcher, your interest and kind citation (star) will definitely mean a lot for me and my collaborators.
+
 ## News
 
 ## Papers
+
+- **Ruipeng Jia**, Yanan Cao, Hengzhu Tang, Fang Fang, Cong Cao and Shi Wang.
+  **HAHSum: Hierarchical Attentive Heterogeneous Graph Network for Extractive Summarization**.
+  The 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP'2020).
+  Barcelona, Spain. November, 2020.
 
 - **Ruipeng Jia**, Yanan Cao, Haichao Shi, Fang Fang, Yanbing Liu and Jianlong Tan.
   **DistilSum: Distilling the Knowledge for Extractive Summarization**.
