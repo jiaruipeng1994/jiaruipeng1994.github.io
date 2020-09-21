@@ -9,30 +9,30 @@ As a young researcher, your interest and kind citation (star) will definitely me
 
 - **Ruipeng Jia**, Yanan Cao, Hengzhu Tang, Fang Fang, Cong Cao and Shi Wang.
   **HAHSum: Hierarchical Attentive Heterogeneous Graph Network for Extractive Summarization**.
-  The 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP'2020).
+  The 2020 Conference on Empirical Methods in Natural Language Processing (**EMNLP'2020**).
   Barcelona, Spain. November, 2020.
 
 - **Ruipeng Jia**, Yanan Cao, Haichao Shi, Fang Fang, Yanbing Liu and Jianlong Tan.
   **DistilSum: Distilling the Knowledge for Extractive Summarization**.
-  29th ACM International Conference on Information and Knowledge Management (CIKM'2020).
+  29th ACM International Conference on Information and Knowledge Management (**CIKM'2020**).
   Galway, Ireland. October, 2020.
 
 - **Ruipeng Jia**, Yanan Cao, Fang Fang, Jinpeng Li, Yanbing Liu and Pengfei Yin.
   **Enhancing Pre-trained Language Representation for Multi-Task Learning of Scientific Summarization**.
-  The 2020 International Joint Conference on Neural Networks (IJCNN'2020).
+  The 2020 International Joint Conference on Neural Networks (**IJCNN'2020**).
   Glasgow, UK. July, 2020.
 
 - Jinpeng Li, Chuang Zhang, Xiaojun Chen, Yanan Cao and **Ruipeng Jia**.
   **Improving Abstractive Summarization with Modeling Iterative Representation**.
-  The 2020 International Joint Conference on Neural Networks (IJCNN'2020).
+  The 2020 International Joint Conference on Neural Networks (**IJCNN'2020**).
   Glasgow, UK. July, 2020.
 
 - **Ruipeng Jia**, Yanan Cao, Fang Fang, Jinpeng Li, Yanbing Liu and Pengfei Yin.
   **Enhancing Textual Representation for Abstractive Summarization: Leveraging Masked Decoder**.
-  The 2020 International Joint Conference on Neural Networks (IJCNN'2020).
+  The 2020 International Joint Conference on Neural Networks (**IJCNN'2020**).
   Glasgow, UK. July, 2020.
 
 - Hao Xu, Yanan Cao, **Ruipeng Jia**, Yanbing Liu and Jianlong Tan.
   **Sequence Generative Adversarial Network for Long Text Summarization**.
-  IEEE 30th International Conference on Tools with Artificial Intelligence (ICTAI'18).
+  IEEE 30th International Conference on Tools with Artificial Intelligence (**ICTAI'18**).
   Volos, Greece. Nov, 2018. 
