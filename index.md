@@ -8,7 +8,7 @@ As a young researcher, your interest and kind citation (star) will definitely me
 ## Papers
 
 - **Ruipeng Jia**, Yanan Cao, Hengzhu Tang, Fang Fang, Cong Cao and Shi Wang.
-  **HAHSum: Hierarchical Attentive Heterogeneous Graph Network for Extractive Summarization**.
+  **Neural Extractive Summarization with Hierarchical Attentive Heterogeneous Graph Network**.
   The 2020 Conference on Empirical Methods in Natural Language Processing (**EMNLP'2020**).
   Barcelona, Spain. November, 2020.
 
