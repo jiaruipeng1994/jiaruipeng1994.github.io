@@ -53,4 +53,4 @@ As a young researcher, your interest and kind citation (star) will definitely me
 
 |                                              |          |
 | -------------------------------------------- | -------- |
-| ![JD](./Logo/JD.png) | **Mar. 2018 - Jul. 2017** <br> Research Intern in the Data Science Lab at JD.com <br> *Beijing, China* |
+| ![JD](./Logo/JD.png) | **Mar. 2018 - Jul. 2018** <br> Research Intern in the Data Science Lab at JD.com <br> *Beijing, China* |
