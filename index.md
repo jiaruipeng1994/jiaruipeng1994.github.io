@@ -7,10 +7,10 @@ As a young researcher, your interest and kind citation (star) will definitely me
 
 |                                              |          |
 | -------------------------------------------- | -------- |
-| ![UCAS](./Logo/UCAS.jpeg)                    | **Sep. 2017 - Jul. 2022 (Expected)** <br> Institute of Information Engineering, Chinese Academy of Sciences <br> *Beijing, China* <br> <br> **Ph.D. in Computer Science** |
-| ![Ensta Bretagne](./Logo/Ensta-Bretagne.jpg) | **Jan. 2017 - Jul. 2017** <br> STIC/OSM Laboratory, ENSTA Bretagne <br> *Brest, France* <br> <br> **Study Abroad Funded by CSC** |
-| ![UPC](./Logo/UPC.jpg)                       | **Jul. 2014 - Jul. 2017** <br> Computer and Communication Engineering College, China University of Petroleum (East China) <br> *Qingdao, China* <br> <br> **B.S. in Computer Science and Technology** |
-| ![UPC](./Logo/UPC.jpg)                       | **Sep. 2012 - Jul. 2014** <br> School of Geosciences, China University of Petroleum (East China) <br> *Qingdao, China* <br> <br> **B.S. in Surveying Engineering** |
+| ![UCAS](./Logo/UCAS.jpeg)                    | **Sep. 2017 - Jul. 2022 (Expected)** <br> Institute of Information Engineering, Chinese Academy of Sciences, *Beijing, China* <br> **Ph.D. in Computer Science** |
+| ![Ensta Bretagne](./Logo/Ensta-Bretagne.jpg) | **Jan. 2017 - Jul. 2017** <br> STIC/OSM Laboratory, ENSTA Bretagne, *Brest, France* <br> **Study Abroad Funded by CSC** |
+| ![UPC](./Logo/UPC.jpg)                       | **Jul. 2014 - Jul. 2017** <br> Computer and Communication Engineering College, China University of Petroleum (East China), *Qingdao, China* <br> **B.S. in Computer Science and Technology** |
+| ![UPC](./Logo/UPC.jpg)                       | **Sep. 2012 - Jul. 2014** <br> School of Geosciences, China University of Petroleum (East China), *Qingdao, China* <br> **B.S. in Surveying Engineering** |
 
 ## Publications
 
