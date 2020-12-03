@@ -5,16 +5,19 @@ As a young researcher, your interest and kind citation (star) will definitely me
 
 ## Education
 
-![UCAS](./Logo/UCAS.jpeg)
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-![UPC](./Logo/UPC.jpg)
+|                                              |          |
+| -------------------------------------------- | -------- |
+| ![UCAS](./Logo/UCAS.jpeg)                    | **Sep. 2017 - Jul. 2022 (Expected)** <br> Institute of Information Engineering, Chinese Academy of Sciences <br> *Beijing, China* <br> <br> **Ph.D. in Computer Science** |
+| ![Ensta Bretagne](./Logo/Ensta-Bretagne.jpg) | **Jan. 2017 - Jul. 2017** <br> STIC/OSM Laboratory, ENSTA Bretagne <br> *Brest, France* <br> <br> **Study Abroad Funded by CSC** |
+| ![UPC](./Logo/UPC.jpg)                       | **Jul. 2014 - Jul. 2017** <br> Computer and Communication Engineering College, China University of Petroleum (East China) <br> *Qingdao, China* <br> <br> **B.S. in Computer Science and Technology** |
+| ![UPC](./Logo/UPC.jpg)                       | **Sep. 2012 - Jul. 2014** <br> School of Geosciences, China University of Petroleum (East China) <br> *Qingdao, China* <br> <br> **B.S. in Surveying Engineering** |
 
 ## Publications
 
 - **Ruipeng Jia**, Yanan Cao, Haichao Shi, Fang Fang, Pengfei Yin, and Shi Wang.
   **Flexible Non-Autoregressive Extractive Summarization with Threshold: How to Extract a Non-Fixed Number of Summary Sentences**.
-  The Thirty-Fifth AAAI Conference on Artificial Intelligence(**AAAI'2020**).
-  Vancouver, Canada. February, 2020.
+  The Thirty-Fifth AAAI Conference on Artificial Intelligence(**AAAI'2021**).
+  Vancouver, Canada. February, 2021.
 
 - **Ruipeng Jia**, Yanan Cao, Hengzhu Tang, Fang Fang, Cong Cao and Shi Wang.
   **Neural Extractive Summarization with Hierarchical Attentive Heterogeneous Graph Network**.
@@ -44,8 +47,10 @@ As a young researcher, your interest and kind citation (star) will definitely me
 - Hao Xu, Yanan Cao, **Ruipeng Jia**, Yanbing Liu and Jianlong Tan.
   **Sequence Generative Adversarial Network for Long Text Summarization**.
   IEEE 30th International Conference on Tools with Artificial Intelligence(**ICTAI'2018**).
-  Volos, Greece. Nov, 2018. 
+  Volos, Greece. Nov, 2018.
 
 ## Working Experience
 
-![JD](https://github.githubassets.com/images/icons/emoji/octocat.png)
+|                                              |          |
+| -------------------------------------------- | -------- |
+| ![JD](./Logo/JD.png) | **Mar. 2018 - Jul. 2017** <br> Research Intern in the Data Science Lab at JD.com <br> *Beijing, China* |
