@@ -3,9 +3,12 @@ layout: default
 ---
 
 ## Biography
-Ph.D. student at Institute of Information Engineering, Chinese Academy of Sciences, studying computer science, focusing on machine learning for natural language.
 
-As a young researcher, your interest and kind citation (star) will definitely mean a lot for me and my collaborators.
+|                       |          |
+| ----------------------| -------- |
+| ![Me](./Logo/Me.jpg)  | Ph.D. student at Institute of Information Engineering, Chinese Academy of Sciences, studying computer science, focusing on machine learning for natural language. <br> As a young researcher, your interest and kind citation (star) will definitely mean a lot for me and my collaborators. |
+
+
 
 ## Education
 
