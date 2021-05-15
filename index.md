@@ -21,7 +21,7 @@ layout: default
 
 - **Ruipeng Jia**, Yanan Cao, Fang Fang, Yuchen Zhou, Zheng Fang, Yanbing Liu and Shi Wang.
   **Deep Differential Amplifier for Extractive Summarization**.
-  The 59th Annual Meeting of the Association for Computational Linguistics (**ACL'2021**).
+  The 59th Annual Meeting of the Association for Computational Linguistics (**ACL'2021**, Main Conference).
   *Bangkok, Thailand*. August, 2021.
 
 - Hengzhu Tang, Yanan Cao, Zhenyu Zhang, **Ruipeng Jia**, Fang Fang, and Shi Wang.
@@ -36,7 +36,7 @@ layout: default
 
 - **Ruipeng Jia**, Yanan Cao, Hengzhu Tang, Fang Fang, Cong Cao and Shi Wang.
   **Neural Extractive Summarization with Hierarchical Attentive Heterogeneous Graph Network**.
-  The 2020 Conference on Empirical Methods in Natural Language Processing (**EMNLP'2020**).
+  The 2020 Conference on Empirical Methods in Natural Language Processing (**EMNLP'2020**, Main Conference).
   *Barcelona, Spain*. November, 2020.
 
 - **Ruipeng Jia**, Yanan Cao, Haichao Shi, Fang Fang, Yanbing Liu and Jianlong Tan.
@@ -69,4 +69,4 @@ layout: default
 |                                              |          |
 | -------------------------------------------- | -------- |
 | ![JD](./Logo/JD.png) | **Mar. 2018 - Jun. 2018** <br> Research Intern in the Data Science Lab at JD.com <br> *Beijing, China* |
-| ![JD](./Logo/Microsoft.png) | **Mar. 2021 - Sep. 2018** <br> Research Intern in the Natural Language Computing at Microsoft Research <br> *Beijing, China* |
+| ![JD](./Logo/Microsoft.png) | **Mar. 2021 - Now** <br> Research Intern in the Natural Language Computing at Microsoft Research <br> *Beijing, China* |
