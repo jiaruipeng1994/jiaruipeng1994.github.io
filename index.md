@@ -6,7 +6,7 @@ layout: default
 
 |                       |          |
 | ----------------------| -------- |
-| ![Me](./Logo/Me.jpg)  | Ph.D. student at Institute of Information Engineering, Chinese Academy of Sciences, studying computer science, focusing on machine learning for natural language. <br> <br> As a young researcher, your interest and kind citation (star) will definitely mean a lot for me and my collaborators. |
+| ![Me](./Logo/Me_2.jpg) | Ph.D. student at Institute of Information Engineering, Chinese Academy of Sciences, studying computer science, focusing on machine learning for natural language. <br> <br> As a young researcher, your interest and kind citation (star) will definitely mean a lot for me and my collaborators. |
 
 ## Education
 
@@ -68,5 +68,5 @@ layout: default
 
 |                                              |          |
 | -------------------------------------------- | -------- |
-| ![JD](./Logo/JD.png) | **Mar. 2018 - Jun. 2018** <br> Research Intern in the Data Science Lab at JD.com <br> *Beijing, China* |
 | ![JD](./Logo/Microsoft.png) | **Mar. 2021 - Now** <br> Research Intern in the Natural Language Computing at Microsoft Research <br> *Beijing, China* |
+| ![JD](./Logo/JD.png) | **Mar. 2018 - Jun. 2018** <br> Research Intern in the Data Science Lab at JD.com <br> *Beijing, China* |
