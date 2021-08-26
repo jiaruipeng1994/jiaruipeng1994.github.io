@@ -21,7 +21,7 @@ layout: default
 
 - Zheng Fang, Yanan Cao, Tai Li, **Ruipeng Jia**, Fang Fang, Yanmin Shang and Yuhai Lu.
   **TEBNER: Domain Specific Named Entity Recognition with Type Expanded Boundary-aware Network**.
-  The 2021 Conference on Empirical Methods in Natural Language Processing (**EMNLP'2021**, )
+  The 2021 Conference on Empirical Methods in Natural Language Processing (**EMNLP'2021**, Main Conference)
   *Punta Cana, Dominican Republic*. November, 2021.
 
 - **Ruipeng Jia**, Yanan Cao, Fang Fang, Yuchen Zhou, Zheng Fang, Yanbing Liu and Shi Wang.
