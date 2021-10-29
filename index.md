@@ -21,12 +21,13 @@ layout: default
 
 - Zheng Fang, Yanan Cao, Tai Li, **Ruipeng Jia**, Fang Fang, Yanmin Shang and Yuhai Lu.
   **TEBNER: Domain Specific Named Entity Recognition with Type Expanded Boundary-aware Network**.
-  The 2021 Conference on Empirical Methods in Natural Language Processing (**EMNLP'2021**, Main Conference)
+  The 2021 Conference on Empirical Methods in Natural Language Processing (**EMNLP'2021**, Main Conference).
   *Punta Cana, Dominican Republic*. November, 2021.
 
 - **Ruipeng Jia**, Yanan Cao, Fang Fang, Yuchen Zhou, Zheng Fang, Yanbing Liu and Shi Wang.
   **Deep Differential Amplifier for Extractive Summarization**.
   The 59th Annual Meeting of the Association for Computational Linguistics (**ACL'2021**, Main Conference).
+  Page 366-376.
   *Bangkok, Thailand*. August, 2021.
 
 - Hengzhu Tang, Yanan Cao, Zhenyu Zhang, **Ruipeng Jia**, Fang Fang, and Shi Wang.
@@ -37,21 +38,25 @@ layout: default
 - **Ruipeng Jia**, Yanan Cao, Haichao Shi, Fang Fang, Pengfei Yin, and Shi Wang.
   **Flexible Non-Autoregressive Extractive Summarization with Threshold: How to Extract a Non-Fixed Number of Summary Sentences**.
   The Thirty-Fifth AAAI Conference on Artificial Intelligence (**AAAI'2021**).
+  Page 13134-13142.
   *Vancouver, Canada*. February, 2021.
 
 - **Ruipeng Jia**, Yanan Cao, Hengzhu Tang, Fang Fang, Cong Cao and Shi Wang.
   **Neural Extractive Summarization with Hierarchical Attentive Heterogeneous Graph Network**.
   The 2020 Conference on Empirical Methods in Natural Language Processing (**EMNLP'2020**, Main Conference).
+  Page 3622–3631.
   *Barcelona, Spain*. November, 2020.
 
 - **Ruipeng Jia**, Yanan Cao, Haichao Shi, Fang Fang, Yanbing Liu and Jianlong Tan.
   **DistilSum: Distilling the Knowledge for Extractive Summarization**.
   29th ACM International Conference on Information and Knowledge Management (**CIKM'2020**).
+  Page 2069–2072.
   *Galway, Ireland*. October, 2020.
 
 - **Ruipeng Jia**, Yanan Cao, Fang Fang, Jinpeng Li, Yanbing Liu and Pengfei Yin.
   **Enhancing Pre-trained Language Representation for Multi-Task Learning of Scientific Summarization**.
   The 2020 International Joint Conference on Neural Networks (**IJCNN'2020**).
+  Page 1-8.
   *Glasgow, UK*. July, 2020.
 
 - Jinpeng Li, Chuang Zhang, Xiaojun Chen, Yanan Cao and **Ruipeng Jia**.
@@ -62,6 +67,7 @@ layout: default
 - **Ruipeng Jia**, Yanan Cao, Fang Fang, Jinpeng Li, Yanbing Liu and Pengfei Yin.
   **Enhancing Textual Representation for Abstractive Summarization: Leveraging Masked Decoder**.
   The 2020 International Joint Conference on Neural Networks (**IJCNN'2020**).
+  Page 1-8.
   *Glasgow, UK*. July, 2020.
 
 - Hao Xu, Yanan Cao, **Ruipeng Jia**, Yanbing Liu and Jianlong Tan.
