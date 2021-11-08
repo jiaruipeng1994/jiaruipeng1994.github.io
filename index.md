@@ -19,16 +19,16 @@ layout: default
 
 ## Publications
 
-- Zheng Fang, Yanan Cao, Tai Li, **Ruipeng Jia**, Fang Fang, Yanmin Shang and Yuhai Lu.
-  **TEBNER: Domain Specific Named Entity Recognition with Type Expanded Boundary-aware Network**.
-  The 2021 Conference on Empirical Methods in Natural Language Processing (**EMNLP'2021**, Main Conference).
-  *Punta Cana, Dominican Republic*. November, 2021.
-
 - **Ruipeng Jia**, Yanan Cao, Fang Fang, Yuchen Zhou, Zheng Fang, Yanbing Liu and Shi Wang.
   **Deep Differential Amplifier for Extractive Summarization**.
   The 59th Annual Meeting of the Association for Computational Linguistics (**ACL'2021**, Main Conference).
   Page 366-376.
   *Bangkok, Thailand*. August, 2021.
+
+- Zheng Fang, Yanan Cao, Tai Li, **Ruipeng Jia**, Fang Fang, Yanmin Shang and Yuhai Lu.
+  **TEBNER: Domain Specific Named Entity Recognition with Type Expanded Boundary-aware Network**.
+  The 2021 Conference on Empirical Methods in Natural Language Processing (**EMNLP'2021**, Main Conference).
+  *Punta Cana, Dominican Republic*. November, 2021.
 
 - Hengzhu Tang, Yanan Cao, Zhenyu Zhang, **Ruipeng Jia**, Fang Fang, and Shi Wang.
   **Multi-Granularity Heterogeneous Graph for Document-Level Relation Extraction**.
