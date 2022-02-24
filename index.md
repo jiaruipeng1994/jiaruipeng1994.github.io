@@ -19,6 +19,11 @@ layout: default
 
 ## Publications
 
+- **Ruipeng Jia**, Xingxing Zhang, Yanan Cao, Shi Wang, Zheng Lin and Furu Wei.
+  **Neural Label Search for Zero-Shot Multi-Lingual Extractive Summarization**.
+  The 60th Annual Meeting of the Association for Computational Linguistics (**ACL'2022**, Main Conference).
+  *Dublin, Ireland*. May, 2022.
+
 - **Ruipeng Jia**, Yanan Cao, Fang Fang, Yuchen Zhou, Zheng Fang, Yanbing Liu and Shi Wang.
   **Deep Differential Amplifier for Extractive Summarization**.
   The 59th Annual Meeting of the Association for Computational Linguistics (**ACL'2021**, Main Conference).
@@ -79,5 +84,5 @@ layout: default
 
 |                                              |          |
 | -------------------------------------------- | -------- |
-| ![JD](./Logo/Microsoft.png) | **Mar. 2021 - Now** <br> Research Intern in the Natural Language Computing at Microsoft Research <br> *Beijing, China* |
+| ![JD](./Logo/Microsoft.png) | **Mar. 2021 - Sep. 2021** <br> Research Intern in the Natural Language Computing at Microsoft Research <br> *Beijing, China* |
 | ![JD](./Logo/JD.png) | **Mar. 2018 - Jun. 2018** <br> Research Intern in the Data Science Lab at JD.com <br> *Beijing, China* |
