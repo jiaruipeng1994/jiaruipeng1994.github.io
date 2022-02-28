@@ -30,6 +30,12 @@ layout: default
   Page 366-376.
   *Bangkok, Thailand*. August, 2021.
 
+- **Ruipeng Jia**, Yanan Cao, Haichao Shi, Fang Fang, Pengfei Yin, and Shi Wang.
+  **Flexible Non-Autoregressive Extractive Summarization with Threshold: How to Extract a Non-Fixed Number of Summary Sentences**.
+  The Thirty-Fifth AAAI Conference on Artificial Intelligence (**AAAI'2021**).
+  Page 13134-13142.
+  *Vancouver, Canada*. February, 2021.
+
 - Zheng Fang, Yanan Cao, Tai Li, **Ruipeng Jia**, Fang Fang, Yanmin Shang and Yuhai Lu.
   **TEBNER: Domain Specific Named Entity Recognition with Type Expanded Boundary-aware Network**.
   The 2021 Conference on Empirical Methods in Natural Language Processing (**EMNLP'2021**, Main Conference).
@@ -39,12 +45,6 @@ layout: default
   **Multi-Granularity Heterogeneous Graph for Document-Level Relation Extraction**.
   2021 IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP'2021**).
   *Toronto, Canada*. June, 2021.
-
-- **Ruipeng Jia**, Yanan Cao, Haichao Shi, Fang Fang, Pengfei Yin, and Shi Wang.
-  **Flexible Non-Autoregressive Extractive Summarization with Threshold: How to Extract a Non-Fixed Number of Summary Sentences**.
-  The Thirty-Fifth AAAI Conference on Artificial Intelligence (**AAAI'2021**).
-  Page 13134-13142.
-  *Vancouver, Canada*. February, 2021.
 
 - **Ruipeng Jia**, Yanan Cao, Hengzhu Tang, Fang Fang, Cong Cao and Shi Wang.
   **Neural Extractive Summarization with Hierarchical Attentive Heterogeneous Graph Network**.
