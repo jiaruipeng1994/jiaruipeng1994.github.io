@@ -24,6 +24,11 @@ layout: default
   The 60th Annual Meeting of the Association for Computational Linguistics (**ACL'2022**, Main Conference).
   *Dublin, Ireland*. May, 2022.
 
+- Hanwei Wang, Piji Li, Yanan Cao, **Ruipeng Jia**, Wang Hai-long and Li Yang-chun.
+  **Decoupled Extractive Summarization as Graph Nodes Pruning**.
+  The 2022 International Joint Conference on Neural Networks (**IJCNN'2022**).
+  *Padua, Italy*. July, 2022.
+
 - **Ruipeng Jia**, Yanan Cao, Fang Fang, Yuchen Zhou, Zheng Fang, Yanbing Liu and Shi Wang.
   **Deep Differential Amplifier for Extractive Summarization**.
   The 59th Annual Meeting of the Association for Computational Linguistics (**ACL'2021**, Main Conference).
