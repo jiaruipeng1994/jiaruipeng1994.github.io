@@ -23,7 +23,7 @@ layout: default
   **Neural Label Search for Zero-Shot Multi-Lingual Extractive Summarization**.
   The 60th Annual Meeting of the Association for Computational Linguistics (**ACL'2022**, Main Conference).
   *Dublin, Ireland*. May, 2022.
-  [PDF](https://papers.jiaruipeng.com/2022_ACL.pdf), [Code](https://github.com/jiaruipeng1994/Extractive_Summarization).
+  [[PDF]](https://papers.jiaruipeng.com/2022_ACL.pdf), [[Code]](https://github.com/jiaruipeng1994/Extractive_Summarization).
 
 - Hanwei Wang, Piji Li, Yanan Cao, **Ruipeng Jia**, Wang Hai-long and Li Yang-chun.
   **Decoupled Extractive Summarization as Graph Nodes Pruning**.
@@ -35,14 +35,14 @@ layout: default
   The 59th Annual Meeting of the Association for Computational Linguistics (**ACL'2021**, Main Conference).
   Page 366-376.
   *Bangkok, Thailand*. August, 2021.
-  [PDF](https://papers.jiaruipeng.com/2021_ACL.pdf), [Code](https://github.com/jiaruipeng1994/Extractive_Summarization).
+  [[PDF]](https://papers.jiaruipeng.com/2021_ACL.pdf), [[Code]](https://github.com/jiaruipeng1994/Extractive_Summarization).
 
 - **Ruipeng Jia**, Yanan Cao, Haichao Shi, Fang Fang, Pengfei Yin, and Shi Wang.
   **Flexible Non-Autoregressive Extractive Summarization with Threshold: How to Extract a Non-Fixed Number of Summary Sentences**.
   The Thirty-Fifth AAAI Conference on Artificial Intelligence (**AAAI'2021**).
   Page 13134-13142.
   *Vancouver, Canada*. February, 2021.
-  [PDF](https://papers.jiaruipeng.com/2021_AAAI.pdf), [Code](https://github.com/jiaruipeng1994/Extractive_Summarization).
+  [[PDF]](https://papers.jiaruipeng.com/2021_AAAI.pdf), [[Code]](https://github.com/jiaruipeng1994/Extractive_Summarization).
 
 - Zheng Fang, Yanan Cao, Tai Li, **Ruipeng Jia**, Fang Fang, Yanmin Shang and Yuhai Lu.
   **TEBNER: Domain Specific Named Entity Recognition with Type Expanded Boundary-aware Network**.
@@ -59,14 +59,14 @@ layout: default
   The 2020 Conference on Empirical Methods in Natural Language Processing (**EMNLP'2020**, Main Conference).
   Page 3622–3631.
   *Barcelona, Spain*. November, 2020.
-  [PDF](https://papers.jiaruipeng.com/2020_EMNLP.pdf), [Code](https://github.com/jiaruipeng1994/Extractive_Summarization).
+  [[PDF]](https://papers.jiaruipeng.com/2020_EMNLP.pdf), [[Code]](https://github.com/jiaruipeng1994/Extractive_Summarization).
 
 - **Ruipeng Jia**, Yanan Cao, Haichao Shi, Fang Fang, Yanbing Liu and Jianlong Tan.
   **DistilSum: Distilling the Knowledge for Extractive Summarization**.
   29th ACM International Conference on Information and Knowledge Management (**CIKM'2020**).
   Page 2069–2072.
   *Galway, Ireland*. October, 2020.
-  [PDF](https://papers.jiaruipeng.com/2020_CIKM.pdf), [Code](https://github.com/jiaruipeng1994/Extractive_Summarization).
+  [[PDF]](https://papers.jiaruipeng.com/2020_CIKM.pdf), [[Code]](https://github.com/jiaruipeng1994/Extractive_Summarization).
 
 - **Ruipeng Jia**, Yanan Cao, Fang Fang, Jinpeng Li, Yanbing Liu and Pengfei Yin.
   **Enhancing Pre-trained Language Representation for Multi-Task Learning of Scientific Summarization**.
