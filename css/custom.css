@@ -1,0 +1,14 @@
+
+.main-content table tr td {
+    border: none;
+    border-collapse: collapse;
+}
+
+.main-content table th {
+    display: none;
+}
+
+/* .main-content table td { */
+/*     padding: 0.5rem 1rem; */
+/*     border: 0px; */
+/* } */
